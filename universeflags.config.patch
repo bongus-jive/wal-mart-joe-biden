@@ -1,0 +1,12 @@
+[
+  {
+    "op": "add",
+    "path": "/pat_walmart/actions/-",
+    "value": {
+			"type": "placeDungeon",
+			"dungeonId": "outpost_walmart_joebiden",
+			"targetInstance": "outpost",
+			"targetPosition": [-13, 599]
+		}
+  }
+]

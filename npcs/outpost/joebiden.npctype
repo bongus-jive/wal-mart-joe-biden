@@ -1,0 +1,58 @@
+{
+  "type" : "pat_walmartjoebiden",
+  "baseType" : "outpostcivilian",
+	
+	"npcname" : "Joe Biden",
+	"identity" : {
+		"species" : "human",
+		"gender" : "male",
+		
+		"personalityIdle" : "idle.5",
+		"personalityArmIdle" : "idle.3",
+		"personalityHeadOffset" : [0, 0],
+		"personalityArmOffset" : [2, 0],
+		
+		"hairGroup" : "hair",
+		"hairType" : "male57",
+		"hairDirectives" : "?replace;735e3a=828282;a38d59=b8b8b8;d9c189=eaeaea?replace;dc1f00=f794f8;951500=b72c95;be1b00=d355c1",
+		
+		"bodyDirectives" : "?replace;c7815b=b37c5d;ffe2c5=fff7ec;ffc181=f9d3a9;d39c6c=d3a57c?replace;dc1f00=f794f8;951500=b72c95;be1b00=d355c1",
+		"emoteDirectives" : "?replace;c7815b=b37c5d;ffe2c5=fff7ec;ffc181=f9d3a9;d39c6c=d3a57c?replace;dc1f00=f794f8;951500=b72c95;be1b00=d355c1"
+	},
+
+  "scriptConfig" : {
+    "offeredQuests" : [],
+    "turnInQuests" : [],
+    
+    "dialog" : {
+      "converse" : {
+        "default" : {
+          "default" : [
+            "welcome to walmart... we have no toilet"
+          ]
+        }
+      }
+    }
+  },
+  
+  "items" : {
+    "override" : [
+      [0, [
+        {
+          "chest" : [{
+						"name" : "coolchest", 
+						"parameters" : {
+							"directives" : "?replace;a85636=bfbfb4;ffca8a=ffffff;383838=dec528;151515=af841a;e0975c=fffff0;6f2919=7f7f78;555=e8e04d"
+						}
+					}],
+          "legs" : [{
+						"name" : "jeans1legs", 
+						"parameters" : {
+							"directives" : "?replace;a85636=325a81;ffca8a=7db8d6;6f2919=1c3553;e0975c=5588ab"
+						}
+					}]
+        }
+      ]]
+    ]
+  }
+}
