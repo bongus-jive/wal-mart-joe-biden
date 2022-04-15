@@ -1,7 +1,7 @@
 [
   {
     "op": "add",
-    "path": "/pat_walmart/actions/-",
+    "path": "/outpost_mission1/actions/-",
     "value": {
 			"type": "placeDungeon",
 			"dungeonId": "outpost_walmart_joebiden",
