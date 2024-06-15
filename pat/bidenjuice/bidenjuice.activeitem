@@ -1,0 +1,29 @@
+{
+  "itemName": "pat_bidenjuice",
+  "shortdescription": "Mysterious Orange Drink",
+  "description": "This mysterious orange drink is the only thing keeping Crooked Joe Biden from falling into a deep slumber. Yikes!",
+  "inventoryIcon": "bidenjuice.png",
+  "category": "drink",
+  "rarity": "Common",
+  "tooltipKind": "base",
+  "twoHanded": false,
+  "price": 0,
+
+  "animationCustom": {
+    "sounds": {
+      "drink": [ "/sfx/humanoid/drink.ogg" ]
+    }
+  },
+
+  "scripts": [ "bidenjuice.lua" ],
+  "soulResource": "pat_bidensoul",
+  "soulSleepyPercentage": 0.15,
+  "soulRestoreRange": [ 0.6, 1 ],
+  "drinkTime": 0.55,
+  "drinkArmAngles": [ -90, 45 ],
+  "emotes": {
+    "sleepy": "sleep",
+    "startDrink": "oh",
+    "endDrink": "blink"
+  }
+}

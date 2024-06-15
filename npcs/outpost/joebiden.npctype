@@ -32,10 +32,25 @@
     }
   },
 
+  "statusControllerSettings": {
+    "resources": {
+      "pat_bidensoul": {
+        "maxValue": 40,
+        "deltaValue": -0.8,
+        "defaultPercentage": 1.0
+      }
+    }
+  },
+
+  "personalities": [
+    [ 1.0, { "personality": "normal", "reactions": { } } ]
+  ],
+
   "items": {
     "override": [
       [ 0, [
           {
+            "primary": [ "pat_bidenjuice" ],
             "chest": [
               {
                 "name": "coolchest",
