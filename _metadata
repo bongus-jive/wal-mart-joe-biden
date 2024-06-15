@@ -1,8 +1,9 @@
 {
-  "version" : "1.1",
+  "version" : "1.2",
   "author" : "patman",
   "tags" : "Miscellaneous|NPCs and Creatures",
-  "description" : "adds Joe Biden (46th president of the United States of America) as an employee at Walmart\nhe welcomes you, then informs you that there is no toilet\n\nthat is all\n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar",
+  "steamDescription" : "adds Joe Biden (46th president of the United States of America) as an employee at Walmart\nhe welcomes you, then informs you that there is no toilet\n\nhe will also occasionally take a sip of a mysterious orange drink.\nThis mysterious orange drink is the only thing keeping Crooked Joe Biden from falling into a deep slumber. Yikes!\n\n\n[img]https://i.imgur.com/wXjYMqP.gif[/img]https://discord.gg/GdsQSgV\n[img]https://i.imgur.com/uyG8oTa.gif[/img]https://www.patreon.com/pathiccstar\n[img]https://i.imgur.com/xVfcRRH.gif[/img]https://ko-fi.com/patmanf\n[img]https://i.imgur.com/jJAj6jF.gif[/img]https://github.com/bongus-jive/walmart-joe-biden",
+  "description" : "adds Joe Biden (46th president of the United States of America) as an employee at Walmart\nhe welcomes you, then informs you that there is no toilet\n\nhe will also occasionally take a sip of a mysterious orange drink.\nThis mysterious orange drink is the only thing keeping Crooked Joe Biden from falling into a deep slumber. Yikes!",
   "name" : "walmart_joebiden",
   "friendlyName" : "joe biden walmart",
   "steamContentId" : "2548909955",
